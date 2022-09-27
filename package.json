@@ -1,5 +1,22 @@
 {
   "devDependencies": {
     "tailwindcss": "^3.1.8"
-  }
+  },
+  "name": "facebook-cloning",
+  "description": "ig",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutesialine/facebook-cloning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mutesialine/facebook-cloning/issues"
+  },
+  "homepage": "https://github.com/mutesialine/facebook-cloning#readme"
 }
